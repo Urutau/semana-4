@@ -1,0 +1,22 @@
+{
+  "name": "criptina-9561",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "sass": "sass styles/main.scss styles/main.css",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
